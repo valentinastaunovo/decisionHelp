@@ -1,1 +1,5 @@
-# decisionHelp
+# final-proj
+I made this project to be a helpful hand when a group or even an individual needs a helping hand in figuring out their morning plans. The code will ask if you want solely coffee, coffee and a snack, coffee and a meal, or any combination of those things and then provide pre-set examples of places in Los Angeles that will satisfy those needs. 
+This can come in handy for either an indisive indivual(like myself) or a group who may have different wants for their morning to ensure that all wants are satisfied. 
+A technology I chose to incorperate in this project was the use of if else statements. I found these to be particularly crucial in my project because of what the output goal was. 
+My experience working on this project did get frusterating. Throughout the semester we had projects to make that were decided for us beforehand, so having to think of my own was harder than I anticipated. Initally I wanted to do a social site, and then changed my interest to a game, and then I landed on something that I think would actually be helpful in my life since games and social sites are already so plentiful. 
